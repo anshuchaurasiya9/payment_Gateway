@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">payment gateway</string>
+    <string name="pay_with_razorpay">pay with razorpay</string>
+    <string name="imgdiscription">background image</string>
+    <string name="pay_your_rent_with_razorpay">Pay your rent with razorpay</string>
+</resources>
